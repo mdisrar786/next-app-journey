@@ -1,11 +1,11 @@
 import React from 'react'
 
-function paje() {
+const page = () => {
   return (
     <div>
-      heyyyy
+      hello
     </div>
   )
 }
 
-export default paje
+export default page
