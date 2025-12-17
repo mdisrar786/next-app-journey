@@ -5,7 +5,7 @@ import React from 'react'
     console.log(data)
   return (
     <div>
-      <h1>Hello Profile dyanimic page </h1>
+      <h1>Hello Profile dyanimic page</h1>
     </div>
   )
 }
